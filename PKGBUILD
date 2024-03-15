@@ -1,6 +1,6 @@
 
 pkgname=slack-desktop
-pkgver=4.27.156
+pkgver=4.36.140
 pkgrel=1
 pkgdesc="Slack Desktop (Beta) for Linux"
 arch=('x86_64')
